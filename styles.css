@@ -2,6 +2,7 @@
 	width:200px;
 	height:200px;
 	background-color:yellow;
+	border-left:50px solid rgba(0, 0, 0, 0);
 	border-bottom:100px solid rgb(255, 255, 0);
 	clip-path: polygon(
 		50% 0%,
